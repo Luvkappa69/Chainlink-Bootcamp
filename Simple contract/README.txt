@@ -6,7 +6,7 @@ SET ENVIRONMENT:
     Injected provider - Metamask
     Sepolia (11155111) network
 
-GET TEST BALANCE IN ACCOUT:
+GET TEST BALANCE IN ACCOUNT:
     https://sepolia-faucet.pk910.de/
     https://sepoliafaucet.com/
     https://faucets.chain.link/
